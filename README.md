@@ -7,6 +7,8 @@ Inside of the files:
   
   02: Lists, Arrays, Dictionary
   
-  03: There is an example of students' GPA calculating. 
+  03: EXAMPLE: There is an example of students' GPA calculating. 
 
   04: Using Functions
+  
+  05: EXAMPLE: Example of Function Usage
