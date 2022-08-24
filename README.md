@@ -13,6 +13,8 @@ Inside of the files:
   
   05: EXAMPLE: Example of Function Usage
 
-  06: __OOP: Class usage and example of school classroom 
+  06_OOP: Class usage and example of school classroom 
   
-  07: __OOP: Struct, Enumaration
+  07_OOP: Struct, Enumaration
+
+  08_OOP: Subclassing and Extensions with vehicle example.
