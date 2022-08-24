@@ -12,3 +12,5 @@ Inside of the files:
   04: Using Functions
   
   05: EXAMPLE: Example of Function Usage
+
+  06: Introduction to OOP: Class usage and example of school classroom 
